@@ -1,0 +1,4 @@
+services:
+#    synsocial_database.example:
+#        class: Synduit\SynsocialDatabaseBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,1 @@
+#Synsocial Database strcture.
