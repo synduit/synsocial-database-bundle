@@ -44,6 +44,9 @@ class JobRepository extends DocumentRepository
         if (!empty($options['started'])) {
             $job->setStarted($options['started']);
         }
+        if (!empty($options['updated'])) {
+            $job->setUpdated($options['updated']);
+        }
 
         return $job;
     }
